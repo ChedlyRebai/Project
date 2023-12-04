@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662605897812",
+    "project_id": "project-93728",
+    "storage_bucket": "project-93728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662605897812:android:f417e1c8ae4640e5ec0dc1",
+        "android_client_info": {
+          "package_name": "com.chedly.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XJ5BmxCTKHh5Yq9ZZOqY_Wc9eOpM0y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
